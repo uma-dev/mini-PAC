@@ -30,4 +30,9 @@ The general idea of what happens inside the code is below:
 - The zero crossing circuit trigers an input corresponding to an **interrupt** that enables a **square waveform** wich inits in the zero value and with a pulse width corresponding to the value maped from the ADC channel. 
 - The power stage switch the load, synchronized with the **square waveform**, on and off. 
 
+<p align="center">
+	<img alt="Control signals" width="500" src="https://user-images.githubusercontent.com/22565959/213885312-7970b64f-5aaa-4afe-a145-01eb5e3af3bd.png">
+
+</p>
+
 ## Schematic
