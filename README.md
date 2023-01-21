@@ -19,8 +19,6 @@ The control circuit in this design, uses timmers and _zero crossing circuit_ tha
 
 <p align="center">
 	<img alt="Zero crossing circuit" width="200" src="https://user-images.githubusercontent.com/22565959/213883584-a254b72b-0fbb-4e92-a54c-57aa0edd1ea1.png">
-</p>
-<p align="center">
 	<img alt="Zero crossing circuit" width="200" src="https://user-images.githubusercontent.com/22565959/213883593-dad12f7b-1464-446e-ac99-6e66b3f474ec.png">
 </p>
 
