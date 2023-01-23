@@ -31,14 +31,10 @@ The general idea of what happens inside the code is below:
 - The power stage switch the load, synchronized with the **square waveform**, on and off. 
 
 <p align="center">
-	<img alt="Control signals" width="500" src="https://user-images.githubusercontent.com/22565959/213885312-7970b64f-5aaa-4afe-a145-01eb5e3af3bd.png">
+	<img alt="Control signals" width="700" src="https://user-images.githubusercontent.com/22565959/213885312-7970b64f-5aaa-4afe-a145-01eb5e3af3bd.png">
 </p>
 
-## Schematic
-### Circuit 
-
-
-### Breadboard
+## Breadboard
 <p align="center">
-	<img alt="Breadboard" width="500" src="https://user-images.githubusercontent.com/22565959/213962371-aab461fb-0b41-4ed1-b052-d9c24785229b.png">
+	<img alt="Breadboard" width="700" src="https://user-images.githubusercontent.com/22565959/213962371-aab461fb-0b41-4ed1-b052-d9c24785229b.png">
 </p>
