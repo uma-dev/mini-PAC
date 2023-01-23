@@ -34,8 +34,8 @@ The general idea of what happens inside the code is below:
 - The power stage switch the load, synchronized with the **square waveform**, on and off. 
 
 <p align="center">
-	<img alt="Power stage" width="400" src="https://user-images.githubusercontent.com/22565959/213963618-809bdb3e-eeaf-4fa9-9dda-a492a0eaf045.jpg">
-	<img alt="Control signals" width="330" src="https://user-images.githubusercontent.com/22565959/213885312-7970b64f-5aaa-4afe-a145-01eb5e3af3bd.png">
+	<img alt="Power stage" width="410" src="https://user-images.githubusercontent.com/22565959/213963618-809bdb3e-eeaf-4fa9-9dda-a492a0eaf045.jpg">
+	<img alt="Control signals" width="320" src="https://user-images.githubusercontent.com/22565959/213885312-7970b64f-5aaa-4afe-a145-01eb5e3af3bd.png">
 </p>
 
 ## Breadboard
