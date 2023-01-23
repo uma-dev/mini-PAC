@@ -29,7 +29,7 @@ void  interrupt_init(){                          //zero cross detect
 
 void adc_init(){
   ADMUX |= (1 << ADLAR);                         //Left Adjust the ADCH and ADCL registers (8 bit resolution)
-  ADMUX |= (1 << MUX1);                          //Use the channel 2 of the ADC (pin 3)
+  ADMUX |= (1 << MUX1);                          //Use PB4 the channel 2 of the ADC (pin 3)
   ADCSRA = 0b10000110;                           //ADC clock runs 64 times (110) slower than system clock  
 }
 
