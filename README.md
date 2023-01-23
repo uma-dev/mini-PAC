@@ -45,3 +45,7 @@ The general idea of what happens inside the code is below:
 <p align="center">
 	<img alt="Breadboard" width="710" src="https://user-images.githubusercontent.com/22565959/213962371-aab461fb-0b41-4ed1-b052-d9c24785229b.png">
 </p>
+<p align="center">
+	<img alt="Breadboard" width="710" src="https://user-images.githubusercontent.com/22565959/213968767-fd9b4acf-b717-4068-8240-156c5fce34f3.jpg">
+
+</p>
