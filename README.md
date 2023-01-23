@@ -28,10 +28,14 @@ The general idea of what happens inside the code is below:
 
 - **ADC** channel is constanly sensing the value of the rotary potentiometer and map it to a _pulse width_ value in the **timmer**. This value can be in range of 0-8.33ms, wish represent the period of the zero crossing values.
 - The zero crossing circuit trigers an input corresponding to an **interrupt** that enables a **square waveform** wich inits in the zero value and with a pulse width corresponding to the value maped from the ADC channel. 
+
+### Power stage 
+
 - The power stage switch the load, synchronized with the **square waveform**, on and off. 
 
 <p align="center">
-	<img alt="Control signals" width="700" src="https://user-images.githubusercontent.com/22565959/213885312-7970b64f-5aaa-4afe-a145-01eb5e3af3bd.png">
+	<img alt="Power stage" width="460" src="https://user-images.githubusercontent.com/22565959/213963618-809bdb3e-eeaf-4fa9-9dda-a492a0eaf045.jpg">
+	<img alt="Control signals" width="270" src="https://user-images.githubusercontent.com/22565959/213885312-7970b64f-5aaa-4afe-a145-01eb5e3af3bd.png">
 </p>
 
 ## Breadboard
