@@ -49,3 +49,15 @@ The general idea of what happens inside the code is below:
 	<img alt="Breadboard" width="710" src="https://user-images.githubusercontent.com/22565959/213968767-fd9b4acf-b717-4068-8240-156c5fce34f3.jpg">
 
 </p>
+
+## Programmer
+<p align="center">
+	<img alt="Programmer" width="710" src="https://user-images.githubusercontent.com/22565959/218610842-4019c74e-a2bf-4b8d-b83a-72a9fb3ee51d.jpg">
+</p>
+
+## DC Motor
+<p align="center">
+	<img alt="DC motor" width="710" src="https://user-images.githubusercontent.com/22565959/218610623-f00be736-da76-449a-95ad-4bcd2a06a1ee.jpg">
+</p>
+
+
