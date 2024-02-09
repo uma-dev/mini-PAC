@@ -1,7 +1,7 @@
 
 # Simple AC phase control
 
-Compact AC Phase contorol with zero corssing circuit using [ATtiny13u](https://ww1.microchip.com/downloads/en/devicedoc/doc2535.pdf).
+Compact AC Phase contorol with zero crossing circuit using [ATtiny13u](https://ww1.microchip.com/downloads/en/devicedoc/doc2535.pdf).
 The scope of this project is build an efficient, scalable and simple to-solder dimming circuit, for resistive ac loads like heaters, also it can work with small motors.
 It can be rewritten to be used with others AVR 8-Bit Atmel Microcontrollers. Also, the power stage can be replaced for your amperage needs  
 
